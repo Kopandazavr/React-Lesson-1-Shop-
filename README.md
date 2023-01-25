@@ -1,3 +1,8 @@
+Исполнение блиц урока по реакту от Владилена Минина (https://www.youtube.com/watch?v=OJ16BaPC6VI)
+
+Стек:
+React + axios (запросы) + Tailwind (css)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
